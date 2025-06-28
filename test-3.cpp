@@ -63,3 +63,8 @@ int main() {
 
     return 0;
 }
+/*
+output:
+Buddy says: Woof!
+Whiskers says: Meow!
+   */ 
