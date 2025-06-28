@@ -68,3 +68,11 @@ int main() {
 
     return 0;
 }
+/*
+output:
+Drawing a Circle
+Area: 78.5397
+
+Drawing a Rectangle
+Area: 24
+    */
