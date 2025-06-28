@@ -40,3 +40,20 @@ int main() {
 
     return 0;
 }
+/*
+output:
+Book 1:
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Published Year: 1925
+
+Book 2:
+Title: To Kill a Mockingbird
+Author: Harper Lee
+Published Year: 1960
+
+Book 3:
+Title: 1984
+Author: George Orwell
+Published Year: 1949
+ */   
